@@ -1,0 +1,16 @@
+{
+    "name": "MeasurementUnits.Tests",
+    "rootNamespace": "MeasurementUnits.Tests",
+    "references": [
+        "GUID:06a1b7c33d507094f8cd1889ab46d5e4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

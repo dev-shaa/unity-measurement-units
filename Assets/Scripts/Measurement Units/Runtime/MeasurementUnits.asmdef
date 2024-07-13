@@ -1,6 +1,6 @@
 {
-    "name": "MeasurementUnit",
-    "rootNamespace": "MeasurementUnit",
+    "name": "MeasurementUnits",
+    "rootNamespace": "MeasurementUnits",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
